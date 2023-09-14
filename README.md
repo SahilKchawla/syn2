@@ -23,7 +23,7 @@ SynChatPDF is a Python-based application that allows users to read PDFs or uploa
 2. Change into the project directory:
 
    ```bash
-   cd synChatPDF
+   cd synchatpdf
    ```
 
 3. Install the required Python packages using pip:
@@ -31,27 +31,17 @@ SynChatPDF is a Python-based application that allows users to read PDFs or uploa
    ```bash
    pip install -r requirements.txt
    ```
-
-4. Change into the `synChatPDF` directory:
-
-   ```bash
-   cd synChatPDF
-   ```
-
-5. Install the required Node.js packages using npm:
+4. Install the required Node.js packages using npm:
 
    ```bash
    npm install
    ```
-
-6. Return to the project root directory:
+5. Return to the project root directory:
 
    ```bash
    cd ..
    ```
-
-
-7. Start the website:
+6. Start the website:
 
    ```bash
    cd synChatPDF
