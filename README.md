@@ -48,7 +48,7 @@ Before running SynChatPDF, make sure you have the following prerequisites instal
    npm start
    ```
 
-![Flowchart](C:\Users\SahilChawla\Downloads\Readme syn2.png)
+![Flowchart](https://github.com/SahilKchawla/syn2/blob/main/Readme%20syn2.png)
 
 ## Usage
 
