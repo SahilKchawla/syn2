@@ -19,29 +19,22 @@ SynGPT is a Python-based application that allows users to read PDFs or uploaded 
    ```bash
    git clone https://github.com/bhanujoshi24/synchatpdf.git
    ```
-
 2. Change into the project directory:
 
    ```bash
    cd synchatpdf
    ```
-
-3. Install the required Python packages using pip:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Install the required Node.js packages using npm:
+3. Install the required Node.js packages using npm:
 
    ```bash
    npm install
    ```
-5. Return to the project root directory:
+4. Return to the project root directory:
 
    ```bash
    cd ..
    ```
-6. Start the website:
+5. Start the website:
 
    ```bash
    cd synChatPDF
