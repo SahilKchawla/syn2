@@ -1,6 +1,6 @@
 Sure, here's a more complete README file in Markdown format for the GitHub project "synchatpdf":
 
-# SynChatPDF
+# SynGPT
 
 SynChatPDF is a Python-based application that allows users to read PDFs or uploaded text documents and then ask questions regarding the content of the PDF or text. It utilizes Natural Language Processing (NLP) techniques to understand and answer user questions based on the provided document.
 
