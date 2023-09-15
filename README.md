@@ -2,7 +2,7 @@ Sure, here's a more complete README file in Markdown format for the GitHub proje
 
 # SynGPT
 
-SynChatPDF is a Python-based application that allows users to read PDFs or uploaded text documents and then ask questions regarding the content of the PDF or text. It utilizes Natural Language Processing (NLP) techniques to understand and answer user questions based on the provided document.
+SynGPT is a Python-based application that allows users to read PDFs or uploaded text documents and then ask questions regarding the content of the PDF or text. It utilizes Natural Language Processing (NLP) techniques to understand and answer user questions based on the provided document.
 
 ## Features
 
@@ -62,6 +62,7 @@ SynChatPDF is a Python-based application that allows users to read PDFs or uploa
 ## Built With
 
 - [![Python 3.8](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-- [Flask](https://flask.palletsprojects.com/en/2.1.x/)
-- [Node.js](https://nodejs.org/)
-- [React](https://reactjs.org/)
+- [![Flask](https://img.shields.io/badge/python-3.6-blue.svg)](https://flask.palletsprojects.com/en/2.1.x/)
+- [![Node.js](https://img.shields.io/badge/python-3.6-blue.svg)](https://nodejs.org/)
+- [![React](https://img.shields.io/badge/python-3.6-blue.svg)](https://reactjs.org/)
+- [![OpenAI-GPT-3.5](https://img.shields.io/badge/python-3.6-blue.svg)](https://openai.com/)
