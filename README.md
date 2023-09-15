@@ -12,6 +12,13 @@ SynGPT is a Python-based application that allows users to read PDFs or uploaded 
 - Easy-to-use web interface.
 - Built-in support for common questions and commands.
 
+## Pre-requisite
+Before running SynChatPDF, make sure you have the following prerequisites installed:
+
+- Python (version 3.6)
+- Backend Code Installed - [https://github.com/bhanujoshi24/SynGPT]
+
+
 ## Installation
 
 1. Clone this repository:
