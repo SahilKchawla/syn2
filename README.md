@@ -62,7 +62,7 @@ SynGPT is a Python-based application that allows users to read PDFs or uploaded 
 ## Built With
 
 - [![Python 3.8](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-- [![Flask](https://img.shields.io/badge/flask-blue.svg)](https://flask.palletsprojects.com/en/2.1.x/)
-- [![Node.js](https://img.shields.io/badge/python-3.6-blue.svg)](https://nodejs.org/)
-- [![React](https://img.shields.io/badge/python-3.6-blue.svg)](https://reactjs.org/)
-- [![OpenAI-GPT-3.5](https://img.shields.io/badge/python-3.6-blue.svg)](https://openai.com/)
+- [![Flask](https://img.shields.io/badge/flask-2.3.2-blue.svg)](https://flask.palletsprojects.com/en/2.1.x/)
+- [![Node.js](https://img.shields.io/badge/node.js-18.17.1-blue.svg)](https://nodejs.org/)
+- [![React](https://img.shields.io/badge/react-18.2.0-blue.svg)](https://reactjs.org/)
+- [![OpenAI-GPT-3.5](https://img.shields.io/badge/openAI-0.27.8-blue.svg)](https://openai.com/)
