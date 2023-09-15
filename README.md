@@ -47,7 +47,7 @@ Before running SynChatPDF, make sure you have the following prerequisites instal
    cd synChatPDF
    npm start
    ```
-
+## Flowchart of SynGPT
 ![Flowchart](https://github.com/SahilKchawla/syn2/blob/main/Readme%20syn2.png)
 
 ## Usage
