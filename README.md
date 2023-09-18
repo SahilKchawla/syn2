@@ -2,6 +2,14 @@ Sure, here's a more complete README file in Markdown format for the GitHub proje
 
 # SynGPT
 
+## Built With
+
+[![Python 3.8](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Flask](https://img.shields.io/badge/flask-2.3.2-orange.svg)](https://flask.palletsprojects.com/en/2.1.x/)
+[![Node.js](https://img.shields.io/badge/node.js-18.17.1-green.svg)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/react-18.2.0-red.svg)](https://reactjs.org/)
+[![OpenAI-GPT-3.5](https://img.shields.io/badge/openAI-0.27.8-yellow.svg)](https://openai.com/)
+
 SynGPT is a Python-based application that allows users to read PDFs or uploaded text documents and then ask questions regarding the content of the PDF or text. It utilizes Natural Language Processing (NLP) techniques to understand and answer user questions based on the provided document.
 
 ## Features
@@ -59,14 +67,6 @@ Before running SynChatPDF, make sure you have the following prerequisites instal
 3. Once the document is uploaded, you can start asking questions in the provided input field.
 
 4. SynChatPDF will process your question using NLP techniques and provide answers based on the content of the document.
-
-## Built With
-
-- [![Python 3.8](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-- [![Flask](https://img.shields.io/badge/flask-2.3.2-orange.svg)](https://flask.palletsprojects.com/en/2.1.x/)
-- [![Node.js](https://img.shields.io/badge/node.js-18.17.1-green.svg)](https://nodejs.org/)
-- [![React](https://img.shields.io/badge/react-18.2.0-red.svg)](https://reactjs.org/)
-- [![OpenAI-GPT-3.5](https://img.shields.io/badge/openAI-0.27.8-yellow.svg)](https://openai.com/)
 
 # Video Link
 Video : https://spextranet-my.sharepoint.com/personal/sahil_chawla_synpulse_com/_layouts/15/embed.aspx?UniqueId=95512051-eadf-49b4-8d22-28c38d68b73c&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create
