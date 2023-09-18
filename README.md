@@ -2,7 +2,7 @@ Sure, here's a more complete README file in Markdown format for the GitHub proje
 
 # SynGPT
 
-## Built With
+## 🛠️ Built With
 
 [![Python 3.8](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![Flask](https://img.shields.io/badge/flask-2.3.2-orange.svg)](https://flask.palletsprojects.com/en/2.1.x/)
