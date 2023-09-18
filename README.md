@@ -31,7 +31,7 @@ You can use SynGPT in various ways. Here are some example use cases:
 
 ### Register
 
-**Parameters**
+**Request**
 | Name        | Description                    |
 | ----------- | ------------------------------ |
 | Username      | text         |
