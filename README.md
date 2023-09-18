@@ -29,7 +29,7 @@ Before running SynChatPDF, make sure you have the following prerequisites instal
 # 🚀 Use-Cases
 You can use SynGPT in various ways. Here are some example use cases:
 
-### Register
+### 📝 Register
 
 **Request**
 | Name        | Description                    |
@@ -50,7 +50,7 @@ You can use SynGPT in various ways. Here are some example use cases:
 }
 ```
 
-### Login
+### 🔑 Login
 
 **Request**
 | Name        | Description                    |
@@ -71,7 +71,7 @@ You can use SynGPT in various ways. Here are some example use cases:
 }
 ```
 
-### Upload
+### 📂 Upload
 
 **Request**
 | Name        | Description                    |
@@ -93,7 +93,7 @@ You can use SynGPT in various ways. Here are some example use cases:
 ]
 ```
 
-### User_text
+### 📝 User_text
 
 **Request**
 | Name        | Description                    |
@@ -113,7 +113,7 @@ You can use SynGPT in various ways. Here are some example use cases:
 }
 ```
 
-### Process
+### 🔄 Process
 
 **Request**
 | Name        | Description                    |
@@ -132,7 +132,7 @@ You can use SynGPT in various ways. Here are some example use cases:
 }
 ```
 
-### Summary
+### 📚 Summary
 
 **Request**
 | Name        | Description                    |
@@ -152,7 +152,7 @@ You can use SynGPT in various ways. Here are some example use cases:
 }
 ```
 
-### Prompt
+### 🙋‍♂️💬 Prompt
 
 **Request**
 | Name        | Description                    |
@@ -172,7 +172,7 @@ You can use SynGPT in various ways. Here are some example use cases:
 }
 ```
 
-### Logout
+### 🚪 Logout
 
 **Request**
 | Name        | Description                    |
@@ -191,7 +191,7 @@ You can use SynGPT in various ways. Here are some example use cases:
 }
 ```
 
-## Flowchart of SynGPT
+## 📊 Flowchart of SynGPT
 ![Flowchart](https://github.com/SahilKchawla/syn2/blob/main/Readme%20syn2.png)
 
 ## 🚀 Usage
