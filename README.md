@@ -69,4 +69,4 @@ Before running SynChatPDF, make sure you have the following prerequisites instal
 - [![OpenAI-GPT-3.5](https://img.shields.io/badge/openAI-0.27.8-yellow.svg)](https://openai.com/)
 
 # Video Link
-Video : https://spextranet-my.sharepoint.com/:v:/g/personal/sahil_chawla_synpulse_com/EVEgUZXf6rRJjSIow41otzwB1t-o7HU22WNUKdDnt8at0A?e=agv0ox
+Video : https://spextranet-my.sharepoint.com/:v:/g/personal/sahil_chawla_synpulse_com/EVEgUZXf6rRJjSIow41otzwB1t-o7HU22WNUKdDnt8at0A?e=tc4vfV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6e319
