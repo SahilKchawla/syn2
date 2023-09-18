@@ -41,7 +41,8 @@ You can use SynGPT in various ways. Here are some example use cases:
 **Response**
 | Code        | Description                    |
 | ----------- | ------------------------------ |
-| 200 OK      | If the username is unique, password and email is given properly then the user is created, and a successful login message is returned as a JSON response.    |
+| 200 OK | If the username is unique, password and email is given properly then the user is created, and a successful login message is returned as a JSON response.|
+
 **Example:** 
 {
     "message": "Registration successful."
