@@ -26,35 +26,6 @@ Before running SynChatPDF, make sure you have the following prerequisites instal
 - Python (version 3.6)
 - Backend Code Installed - [https://github.com/bhanujoshi24/SynGPT]
 
-
-## Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/bhanujoshi24/synchatpdf.git
-   ```
-2. Change into the project directory:
-
-   ```bash
-   cd synchatpdf
-   ```
-3. Install the required Node.js packages using npm:
-
-   ```bash
-   npm install
-   ```
-4. Return to the project root directory:
-
-   ```bash
-   cd ..
-   ```
-5. Start the website:
-
-   ```bash
-   cd synChatPDF
-   npm start
-   ```
 ## Flowchart of SynGPT
 ![Flowchart](https://github.com/SahilKchawla/syn2/blob/main/Readme%20syn2.png)
 
