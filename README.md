@@ -44,9 +44,11 @@ You can use SynGPT in various ways. Here are some example use cases:
 | 200 OK | If the username is unique, password and email is given properly then the user is created, and a successful login message is returned as a JSON response.|
 
 **Example:** 
+```shell
 {
     "message": "Registration successful."
-}     
+}
+```
 ## Flowchart of SynGPT
 ![Flowchart](https://github.com/SahilKchawla/syn2/blob/main/Readme%20syn2.png)
 
