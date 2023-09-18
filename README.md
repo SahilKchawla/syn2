@@ -26,6 +26,35 @@ Before running SynChatPDF, make sure you have the following prerequisites instal
 - Python (version 3.6)
 - Backend Code Installed - [https://github.com/bhanujoshi24/SynGPT]
 
+# Use-Cases
+You can use SynGPT in various ways. Here are some example use cases:
+
+#### Reading a PDF document
+
+```shell
+  register :
+    Parameters : To register with new username, password & email.
+    Response : Register Successful.
+  login : Login with the created username and password.
+  upload : Upload the document from the local folder.
+  process : Process the document.
+  summary : Get the summary regarding the uploaded pdf.
+  prompt : ask the questions regarding pdf to get the answers.
+  Logout : Logged out of the system.
+```
+
+#### Uploading text
+
+```shell
+  register : To register with new username, password and email.
+  login : Login with the created username and password.
+  user_text : copy & paste the text.
+  process : Process the document.
+  summary : Get the summary regarding the uploaded pdf.
+  prompt : ask the questions regarding text to get the answers.
+  Logout : Logged out of the system.
+```
+
 ## Flowchart of SynGPT
 ![Flowchart](https://github.com/SahilKchawla/syn2/blob/main/Readme%20syn2.png)
 
