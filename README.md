@@ -1,5 +1,3 @@
-Sure, here's a more complete README file in Markdown format for the GitHub project "synchatpdf":
-
 # SynGPT
 
 ## 🛠️ Built With
