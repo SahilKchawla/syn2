@@ -29,18 +29,23 @@ Before running SynChatPDF, make sure you have the following prerequisites instal
 # Use-Cases
 You can use SynGPT in various ways. Here are some example use cases:
 
-| API Name        | Parameters       | Response         |
-| --------------- | ----------------- | ----------------- |
-| Register  | username, password & email  | Registration Successful   |
-| API Endpoint 2  | Parameter 1, Parameter 2  | Response 2       |
-| API Endpoint 3  | Parameter 1, Parameter 2  | Response 3       |
-| API Endpoint 4  | Parameter 1, Parameter 2  | Response 4       |
-| API Endpoint 5  | Parameter 1, Parameter 2  | Response 5       |
-| API Endpoint 6  | Parameter 1, Parameter 2  | Response 6       |
-| API Endpoint 7  | Parameter 1, Parameter 2  | Response 7       |
-| API Endpoint 8  | Parameter 1, Parameter 2  | Response 8       |
-| API Endpoint 9  | Parameter 1, Parameter 2  | Response 9       |
+### Register
 
+**Parameters**
+| Name        | Description                    |
+| ----------- | ------------------------------ |
+| Username      | text         |
+| Password      | text         |
+| Email      | text         |
+
+**Response**
+| Code        | Description                    |
+| ----------- | ------------------------------ |
+| 200 OK      | If the username is unique, password and email is given properly then the user is created, and a successful login message is returned as a JSON response.
+Example: 
+{
+    "message": "Registration successful."
+}         |
 
 ## Flowchart of SynGPT
 ![Flowchart](https://github.com/SahilKchawla/syn2/blob/main/Readme%20syn2.png)
