@@ -67,3 +67,6 @@ Before running SynChatPDF, make sure you have the following prerequisites instal
 - [![Node.js](https://img.shields.io/badge/node.js-18.17.1-green.svg)](https://nodejs.org/)
 - [![React](https://img.shields.io/badge/react-18.2.0-red.svg)](https://reactjs.org/)
 - [![OpenAI-GPT-3.5](https://img.shields.io/badge/openAI-0.27.8-yellow.svg)](https://openai.com/)
+
+# Video Link
+Video : 
