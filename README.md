@@ -41,7 +41,7 @@ You can use SynGPT in various ways. Here are some example use cases:
 **Response**
 | Code        | Description                    |
 | ----------- | ------------------------------ |
-| 200 OK | If the username is unique, password and email is given properly then the user is created, and a successful login message is returned as a JSON response.|
+| 200 OK | If the username is unique, password & email is given properly then the user is created, and a successful register message is returned as a JSON response.|
 
 **Example:** 
 ```shell
@@ -49,6 +49,148 @@ You can use SynGPT in various ways. Here are some example use cases:
     "message": "Registration successful."
 }
 ```
+
+### Login
+
+**Request**
+| Name        | Description                    |
+| ----------- | ------------------------------ |
+| Username      | text         |
+| Password      | text         |
+
+**Response**
+| Code        | Description                    |
+| ----------- | ------------------------------ |
+| 200 OK | If the provided credentials match, and a successful login message is returned as a JSON response.|
+
+**Example:** 
+```shell
+{
+    "message": "Login successful!",
+    "session_id": "admin_aab69bbd-10d9-41c0-ace3-32def3a89219"
+}
+```
+
+### Upload
+
+**Request**
+| Name        | Description                    |
+| ----------- | ------------------------------ |
+| File      | PDF         |
+
+**Response**
+| Code        | Description                    |
+| ----------- | ------------------------------ |
+| 200 OK | It could be a JSON response, a status code, or any other data relevant to the client's request.|
+
+**Example:** 
+```shell
+[
+    {
+        "status": "success",
+        "text": "Adobe Acrobat PDF Files\nAdobe® Portable Document Format (PDF) is a universal file format that preserves all\nof the fonts, formatting, colours and graphics of any source document, regardless ofthe application and platform used to create it."
+    }
+]
+```
+
+### User_text
+
+**Request**
+| Name        | Description                    |
+| ----------- | ------------------------------ |
+| Text      | text         |
+
+**Response**
+| Code        | Description                    |
+| ----------- | ------------------------------ |
+| 200 OK | It could be a JSON response, a status code and text.|
+
+**Example:** 
+```shell
+{
+    "status": "success",
+    "text": "random access memory"
+}
+```
+
+### Process
+
+**Request**
+| Name        | Description                    |
+| ----------- | ------------------------------ |
+| No data      | No data         |
+
+**Response**
+| Code        | Description                    |
+| ----------- | ------------------------------ |
+| 200 OK | If the processing is successful, the route returns a JSON response with a "status" key set to "success".|
+
+**Example:** 
+```shell
+{
+  "status": "success"
+}
+```
+
+### Summary
+
+**Request**
+| Name        | Description                    |
+| ----------- | ------------------------------ |
+| No data      | No data         |
+
+**Response**
+| Code        | Description                    |
+| ----------- | ------------------------------ |
+| 200 OK | If the response status code  is 200 (indicating success), the code proceeds to give summarize text of the whole PDF.|
+
+**Example:** 
+```shell
+{
+    "answer": "The uploaded and processed PDF file is named \"pdf-sample.pdf\" and it is in the Adobe Acrobat PDF format. Adobe PDF is a universal file format that preserves all the fonts, formatting, colors, and graphics of the source document, regardless of the application and platform used to create it.\n\nOne of the key advantages of PDF files is that anyone, anywhere can open them.",
+    "question": "Get summary of the uploaded and processed pdf in 200 words"
+}
+```
+
+### Prompt
+
+**Request**
+| Name        | Description                    |
+| ----------- | ------------------------------ |
+| Prompt(Query)      | text         |
+
+**Response**
+| Code        | Description                    |
+| ----------- | ------------------------------ |
+| 200 OK | The user receives the answer of the input query as a result.|
+
+**Example:** 
+```shell
+{
+  "question": "what's the file type?",
+  "answer": "Pdf"
+}
+```
+
+### Logout
+
+**Request**
+| Name        | Description                    |
+| ----------- | ------------------------------ |
+| No data      | No data         |
+
+**Response**
+| Code        | Description                    |
+| ----------- | ------------------------------ |
+| 200 OK | When a request is made to this route, it clears the user's session and returns a message indicating successful logout as a JSON response.|
+
+**Example:** 
+```shell
+{
+    "message": "Logged out successfully"
+}
+```
+
 ## Flowchart of SynGPT
 ![Flowchart](https://github.com/SahilKchawla/syn2/blob/main/Readme%20syn2.png)
 
