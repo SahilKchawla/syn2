@@ -64,7 +64,7 @@ Before running SynChatPDF, make sure you have the following prerequisites instal
    You can now access the SynGPT frontend and interact with the application.
 
 ### Demo Flowchart
-[Flowchart](<iframe src="https://spextranet-my.sharepoint.com/personal/sahil_chawla_synpulse_com/_layouts/15/embed.aspx?UniqueId=8035a2c2-9ac3-44a7-8c4e-4cf1ad251fc5&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="video_1280.mp4"></iframe>)
+[Flowchart](https://spextranet-my.sharepoint.com/personal/sahil_chawla_synpulse_com/_layouts/15/embed.aspx?UniqueId=8035a2c2-9ac3-44a7-8c4e-4cf1ad251fc5&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
 # 🚀 API Details
 You can use SynGPT in various ways. Here are some example use cases:
