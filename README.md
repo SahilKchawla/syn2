@@ -12,19 +12,61 @@ SynGPT is a Python-based application that allows users to read PDFs or uploaded 
 
 ## ✨ Features
 
-- Upload PDF documents or text files.
-- Ask questions about the content.
-- Get answers based on the document's content.
-- Easy-to-use web interface.
-- Built-in support for common questions and commands.
+- Efficient Document Summarization.
+- Accurate Query Responses.
+- Easy Document Understanding.
+- Quick Doubt Clarification.
+- Time saving.
 
 ## ⚙️ Pre-requisite
 Before running SynChatPDF, make sure you have the following prerequisites installed:
 
-- Python (version 3.6)
-- Backend Code Installed - [https://github.com/bhanujoshi24/SynGPT]
+- Docker Install
+      [Windows](https://docs.docker.com/desktop/install/windows-install/)
+      [Linux](https://docs.docker.com/desktop/install/linux-install/)
+      [MAC](https://docs.docker.com/desktop/install/mac-install/)
 
-# 🚀 Use-Cases
+### Installation
+
+1. Clone the SynGPT repository:
+
+   ```shell
+   git clone https://github.com/bhanujoshi24/SynGPT.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```shell
+   cd SynGPT
+   ```
+### Docker Setup
+
+3. Build the Docker image:
+
+   ```shell
+   docker-compose build 
+   ```
+
+4. Run the Docker container:
+
+   ```shell
+   docker-compose up
+   ```
+
+   This will start the SynGPT backend API in a Docker container.
+
+### Accessing the Frontend
+
+5. Open your web browser and go to:
+
+   [https://bhanujoshi24.github.io/synchatpdf/#/](https://bhanujoshi24.github.io/synchatpdf/#/)
+
+   You can now access the SynGPT frontend and interact with the application.
+
+### Demo Flowchart
+[Flowchart](<iframe src="https://spextranet-my.sharepoint.com/personal/sahil_chawla_synpulse_com/_layouts/15/embed.aspx?UniqueId=8035a2c2-9ac3-44a7-8c4e-4cf1ad251fc5&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="video_1280.mp4"></iframe>)
+
+# 🚀 API Details
 You can use SynGPT in various ways. Here are some example use cases:
 
 ### 📝 Register
@@ -203,4 +245,4 @@ You can use SynGPT in various ways. Here are some example use cases:
 4. SynChatPDF will process your question using NLP techniques and provide answers based on the content of the document.
 
 # 🎥 Video Link
-Video : https://spextranet-my.sharepoint.com/personal/sahil_chawla_synpulse_com/_layouts/15/embed.aspx?UniqueId=95512051-eadf-49b4-8d22-28c38d68b73c&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create
+Video : <iframe src="https://spextranet-my.sharepoint.com/personal/sahil_chawla_synpulse_com/_layouts/15/embed.aspx?UniqueId=95512051-eadf-49b4-8d22-28c38d68b73c&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Untitled design.mp4"></iframe>
