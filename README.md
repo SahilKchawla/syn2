@@ -19,7 +19,7 @@ SynGPT is a Python-based application that allows users to read PDFs or uploaded 
 - Time saving.
 
 ## ⚙️ Pre-requisite
-Before running SynChatPDF, make sure you have the following prerequisites installed:
+Before running SynGPT, make sure you have the following prerequisites installed:
 
 - Docker Install
       [Windows](https://docs.docker.com/desktop/install/windows-install/)
@@ -244,5 +244,5 @@ You can use SynGPT in various ways. Here are some example use cases:
 
 4. SynChatPDF will process your question using NLP techniques and provide answers based on the content of the document.
 
-# 🎥 Video Link
+# 🎥 Demonstration Link Of SynGPT
 [Video](https://spextranet-my.sharepoint.com/personal/sahil_chawla_synpulse_com/_layouts/15/embed.aspx?UniqueId=95512051-eadf-49b4-8d22-28c38d68b73c&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
